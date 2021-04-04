@@ -33,6 +33,10 @@ ul {
   background-color: #eee;
 }
 
+.result.selected {
+  background-color: rgb(224, 224, 224);
+}
+
 form {
   display: flex;
 }
